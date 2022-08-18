@@ -1,0 +1,15 @@
+C:\Users\Randy\Desktop\DatabaseDemoApp\DatabaseDemo\bin\Debug\net6.0\DatabaseDemo.exe
+C:\Users\Randy\Desktop\DatabaseDemoApp\DatabaseDemo\bin\Debug\net6.0\DatabaseDemo.deps.json
+C:\Users\Randy\Desktop\DatabaseDemoApp\DatabaseDemo\bin\Debug\net6.0\DatabaseDemo.runtimeconfig.json
+C:\Users\Randy\Desktop\DatabaseDemoApp\DatabaseDemo\bin\Debug\net6.0\DatabaseDemo.dll
+C:\Users\Randy\Desktop\DatabaseDemoApp\DatabaseDemo\bin\Debug\net6.0\ref\DatabaseDemo.dll
+C:\Users\Randy\Desktop\DatabaseDemoApp\DatabaseDemo\bin\Debug\net6.0\DatabaseDemo.pdb
+C:\Users\Randy\Desktop\DatabaseDemoApp\DatabaseDemo\obj\Debug\net6.0\DatabaseDemo.csproj.AssemblyReference.cache
+C:\Users\Randy\Desktop\DatabaseDemoApp\DatabaseDemo\obj\Debug\net6.0\DatabaseDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Randy\Desktop\DatabaseDemoApp\DatabaseDemo\obj\Debug\net6.0\DatabaseDemo.AssemblyInfoInputs.cache
+C:\Users\Randy\Desktop\DatabaseDemoApp\DatabaseDemo\obj\Debug\net6.0\DatabaseDemo.AssemblyInfo.cs
+C:\Users\Randy\Desktop\DatabaseDemoApp\DatabaseDemo\obj\Debug\net6.0\DatabaseDemo.csproj.CoreCompileInputs.cache
+C:\Users\Randy\Desktop\DatabaseDemoApp\DatabaseDemo\obj\Debug\net6.0\DatabaseDemo.dll
+C:\Users\Randy\Desktop\DatabaseDemoApp\DatabaseDemo\obj\Debug\net6.0\ref\DatabaseDemo.dll
+C:\Users\Randy\Desktop\DatabaseDemoApp\DatabaseDemo\obj\Debug\net6.0\DatabaseDemo.pdb
+C:\Users\Randy\Desktop\DatabaseDemoApp\DatabaseDemo\obj\Debug\net6.0\DatabaseDemo.genruntimeconfig.cache
