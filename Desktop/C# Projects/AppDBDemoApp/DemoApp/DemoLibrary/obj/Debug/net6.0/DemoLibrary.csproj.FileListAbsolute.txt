@@ -1,0 +1,12 @@
+C:\Users\Randy\Desktop\C# Projects\DemoApp\DemoLibrary\bin\Debug\net6.0\DemoLibrary.deps.json
+C:\Users\Randy\Desktop\C# Projects\DemoApp\DemoLibrary\bin\Debug\net6.0\DemoLibrary.dll
+C:\Users\Randy\Desktop\C# Projects\DemoApp\DemoLibrary\bin\Debug\net6.0\ref\DemoLibrary.dll
+C:\Users\Randy\Desktop\C# Projects\DemoApp\DemoLibrary\bin\Debug\net6.0\DemoLibrary.pdb
+C:\Users\Randy\Desktop\C# Projects\DemoApp\DemoLibrary\obj\Debug\net6.0\DemoLibrary.csproj.AssemblyReference.cache
+C:\Users\Randy\Desktop\C# Projects\DemoApp\DemoLibrary\obj\Debug\net6.0\DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Randy\Desktop\C# Projects\DemoApp\DemoLibrary\obj\Debug\net6.0\DemoLibrary.AssemblyInfoInputs.cache
+C:\Users\Randy\Desktop\C# Projects\DemoApp\DemoLibrary\obj\Debug\net6.0\DemoLibrary.AssemblyInfo.cs
+C:\Users\Randy\Desktop\C# Projects\DemoApp\DemoLibrary\obj\Debug\net6.0\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Randy\Desktop\C# Projects\DemoApp\DemoLibrary\obj\Debug\net6.0\DemoLibrary.dll
+C:\Users\Randy\Desktop\C# Projects\DemoApp\DemoLibrary\obj\Debug\net6.0\ref\DemoLibrary.dll
+C:\Users\Randy\Desktop\C# Projects\DemoApp\DemoLibrary\obj\Debug\net6.0\DemoLibrary.pdb

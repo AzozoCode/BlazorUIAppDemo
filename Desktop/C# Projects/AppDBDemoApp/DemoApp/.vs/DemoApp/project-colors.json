@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "65393967-50b6-441b-8825-3773c47effc7": {
+      "ProjectGuid": "65393967-50b6-441b-8825-3773c47effc7",
+      "DisplayName": "ConsoleUI",
+      "ColorIndex": 0
+    },
+    "23064b8a-c59b-4671-b4ea-a495d60c8410": {
+      "ProjectGuid": "23064b8a-c59b-4671-b4ea-a495d60c8410",
+      "DisplayName": "DemoLibrary",
+      "ColorIndex": 1
+    },
+    "3a2edc29-b2ec-4c2d-a6ac-2d763fc4cc78": {
+      "ProjectGuid": "3a2edc29-b2ec-4c2d-a6ac-2d763fc4cc78",
+      "DisplayName": "WinFormUI",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
