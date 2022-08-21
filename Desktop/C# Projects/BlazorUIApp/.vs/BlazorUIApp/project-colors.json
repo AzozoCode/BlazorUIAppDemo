@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b27a8419-020d-4b60-9e1f-282454262867": {
+      "ProjectGuid": "b27a8419-020d-4b60-9e1f-282454262867",
+      "DisplayName": "BlazorUI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
